@@ -24,7 +24,7 @@
  
 ## Resume 📄
 <p>
-    <a href="">
+    <a href="https://road-walrus-77f.notion.site/Tai-Siew-Nee-5c52db62608a49da8c943f286c508d49">
         <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white">
     </a>
 </p>
