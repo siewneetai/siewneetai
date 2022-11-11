@@ -12,8 +12,6 @@
 - 💞️ I’m looking to collaborate on interesting and meaningful projects.
 
 ## Contact 📫
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
 <p>
     <a href="mailto:siewnee017@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
