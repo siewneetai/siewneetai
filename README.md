@@ -5,7 +5,7 @@
     <img alt="Tai Siew Nee" src="IMG_4287.JPEG" height="250px"/></img>
 </h2>
  
-<h3>Profile</h3> 🙋🏼‍♂️
+## Profile 🙋🏼‍♂️
 
 - 👋 Hi, I’m Tai Siew nee.
 - 👀 I’m interested in software engineering.
