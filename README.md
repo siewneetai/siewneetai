@@ -6,13 +6,14 @@
 </h2>
  
 ## Profile 🙋🏼‍♂️
-
 - 👋 Hi, I’m Tai Siew nee.
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently enrolled in BSc (Hons) in Software Engineering at Asia Pacific University (APU).
 - 💞️ I’m looking to collaborate on interesting and meaningful projects.
 
 ## Contact 📫
+[2]: https://www.linkedin.com/in/your_contact_info
+[3]: https://www.facebook.com/your_contact_info
 <p>
     <a href="mailto:siewnee017@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
