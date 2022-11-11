@@ -6,12 +6,12 @@
 </h2>
  
 ## Profile 🙋🏼‍♂️
- 
-- 👋 Hi, I’m Tai Siew nee.
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently enrolled in BSc (Hons) in Software Engineering at Asia Pacific University (APU).
-- 💞️ I’m looking to collaborate on interesting and meaningful projects.
- 
+ <p>
+- 👋 Hi, I’m Tai Siew nee.</b>
+- 👀 I’m interested in software engineering.</b>
+- 🌱 I’m currently enrolled in BSc (Hons) in Software Engineering at Asia Pacific University (APU).</b>
+- 💞️ I’m looking to collaborate on interesting and meaningful projects.</b>
+ </p>
 ## Contact 📫
 <p>
     <a href="mailto:siewnee017@gmail.com">
