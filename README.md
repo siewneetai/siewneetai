@@ -13,17 +13,17 @@
 ## Contact 📫
 <p>
     <a href="mailto:siewnee017@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white"></img>
     </a>
     <a href="https://www.linkedin.com/in//">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white"></img>
     </a>   
 </p>
  
 ## Resume 📄
 <p>
     <a href="https://road-walrus-77f.notion.site/Tai-Siew-Nee-5c52db62608a49da8c943f286c508d49">
-        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white">
+        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white"></img>
     </a>
 </p>
  
