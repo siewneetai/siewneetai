@@ -5,7 +5,7 @@
     <img alt="Tai Siew Nee" src="IMG_4287.JPEG" height="250px"/></img>
 </h2>
  
-- 👋 Hi, I’m Tai Siew nee.
+- 👋 Hi, I’m Tai Siew Nee.
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently enrolled in BSc (Hons) in Software Engineering at Asia Pacific University (APU).
 - 💞️ I’m looking to collaborate on interesting and meaningful projects.
