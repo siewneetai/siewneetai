@@ -2,10 +2,8 @@
 
  ## About Me
 
-- 👋 Hi, I’m Tai Siew Nee.
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently enrolled in BSc (Hons) in Software Engineering at Asia Pacific University (APU).
-- 💞️ I’m looking to collaborate on interesting and meaningful projects.
+- 🌱 I’m currently pursuing BSc (Hons) in Software Engineering at Asia Pacific University (APU).
 
 ## Reach out with me here
 
@@ -13,7 +11,7 @@
 
 ## My Stats in Github
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=siewneetai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](github-readme-stats-opal-five.vercel.app/api?username=siewneetai)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siewneetai&show_icons=true&count_private=true)
 
