@@ -11,7 +11,7 @@
 
 ## My Stats in Github
 
-[![GitHub stats](github-readme-stats-opal-five.vercel.app/api?username=siewneetai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-opal-five.vercel.app/api?username=siewneetai)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siewneetai&show_icons=true&count_private=true)
 
