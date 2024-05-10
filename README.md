@@ -2,7 +2,6 @@
     <b>Tai Siew Nee</b>
     <br/>
     <br/>
-    <img alt="Tai Siew Nee" src="IMG_4287.JPEG" height="250px"/></img>
 </h2>
  
 - 👋 Hi, I’m Tai Siew Nee.
